@@ -1,0 +1,15 @@
+c:\users\maayan\documents\visual studio 2015\Projects\B19 Ex05 Maayan 313353161 Eden 315855049\GamePlayers\bin\Debug\GamePlayers.dll
+c:\users\maayan\documents\visual studio 2015\Projects\B19 Ex05 Maayan 313353161 Eden 315855049\GamePlayers\bin\Debug\GamePlayers.pdb
+c:\users\maayan\documents\visual studio 2015\Projects\B19 Ex05 Maayan 313353161 Eden 315855049\GamePlayers\obj\Debug\GamePlayers.csprojResolveAssemblyReference.cache
+c:\users\maayan\documents\visual studio 2015\Projects\B19 Ex05 Maayan 313353161 Eden 315855049\GamePlayers\obj\Debug\GamePlayers.dll
+c:\users\maayan\documents\visual studio 2015\Projects\B19 Ex05 Maayan 313353161 Eden 315855049\GamePlayers\obj\Debug\GamePlayers.pdb
+C:\Users\edenh\Desktop\B19 Ex05 Maayan 313353161 Eden 315855049\GamePlayers\bin\Debug\GamePlayers.dll
+C:\Users\edenh\Desktop\B19 Ex05 Maayan 313353161 Eden 315855049\GamePlayers\bin\Debug\GamePlayers.pdb
+C:\Users\edenh\Desktop\B19 Ex05 Maayan 313353161 Eden 315855049\GamePlayers\obj\Debug\GamePlayers.csprojResolveAssemblyReference.cache
+C:\Users\edenh\Desktop\B19 Ex05 Maayan 313353161 Eden 315855049\GamePlayers\obj\Debug\GamePlayers.dll
+C:\Users\edenh\Desktop\B19 Ex05 Maayan 313353161 Eden 315855049\GamePlayers\obj\Debug\GamePlayers.pdb
+C:\Users\Maayan\Desktop\B19 Ex05 Maayan 313353161 Eden 315855049 (1)\B19 Ex05 Maayan 313353161 Eden 315855049\GamePlayers\bin\Debug\GamePlayers.dll
+C:\Users\Maayan\Desktop\B19 Ex05 Maayan 313353161 Eden 315855049 (1)\B19 Ex05 Maayan 313353161 Eden 315855049\GamePlayers\bin\Debug\GamePlayers.pdb
+C:\Users\Maayan\Desktop\B19 Ex05 Maayan 313353161 Eden 315855049 (1)\B19 Ex05 Maayan 313353161 Eden 315855049\GamePlayers\obj\Debug\GamePlayers.csprojResolveAssemblyReference.cache
+C:\Users\Maayan\Desktop\B19 Ex05 Maayan 313353161 Eden 315855049 (1)\B19 Ex05 Maayan 313353161 Eden 315855049\GamePlayers\obj\Debug\GamePlayers.dll
+C:\Users\Maayan\Desktop\B19 Ex05 Maayan 313353161 Eden 315855049 (1)\B19 Ex05 Maayan 313353161 Eden 315855049\GamePlayers\obj\Debug\GamePlayers.pdb

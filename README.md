@@ -2,8 +2,9 @@
 Othello desktop application game
 
 
-## THIS IS MY SECOND YEAR OOP-C# COURSE PROJECT
-# YOU CAN OPEN THE SOLUTION USING VISUAL STUDIO AND RUN THE SOURCE CODE TO PLAY THE GAME
+### THIS IS MY SECOND YEAR OOP-C# COURSE PROJECT
+
+#### YOU CAN OPEN THE SOLUTION USING VISUAL STUDIO AND RUN THE SOURCE CODE TO PLAY THE GAME
 
 This exercise includes AI, events, pictureBoxs and winForms, Access modifiers, Constructors, Properties, Indexers, external dll. There are 2 game options:
 
